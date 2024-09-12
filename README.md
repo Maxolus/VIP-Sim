@@ -12,7 +12,7 @@ While VIP-Sim provides valuable insights into the lives of VIPs, some concerns r
 In the Builds folder, you will find precompiled versions of both the simulator and the assessment tool, ready for use. Simply download and get started! 🛠️✨
 
 ## 🚀 Full Release
-Upon acceptance, VIP-Sim will be fully released along with this README to ensure a smooth and complete integration into your design process. We aim to foster inclusivity and improve the user experience for people with vision impairments.
+Upon acceptance, VIP-Sim will be fully released along with a revised version of this README to ensure a smooth and complete integration into your design process.
 
 ### 💡 How to Use
 - Navigate to the Builds folder.
