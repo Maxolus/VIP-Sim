@@ -14,11 +14,12 @@ In the Builds folder, you will find precompiled versions of both the simulator a
 ## 🚀 Full Release
 Upon acceptance, VIP-Sim will be fully released along with this README to ensure a smooth and complete integration into your design process. We aim to foster inclusivity and improve the user experience for people with vision impairments.
 
-##💡 How to Use
-Navigate to the Builds folder.
-Download the compiled simulator or assessment tool.
-Follow the instructions in the tool to simulate various vision impairments.
-Use the tool to adjust and enhance your designs for VIP accessibility.
+### 💡 How to Use
+- Navigate to the Builds folder.
+- Download the compiled simulator or assessment tool.
+- Follow the instructions in the tool to simulate various vision impairments.
+- Alternatively, create a build yourself.
+
 ## 🎯 Goals
 Foster awareness of visual impairments in design.
 Enable designers to empathize with VIPs by simulating real-world challenges.
