@@ -5,10 +5,10 @@ VIP-Sim is a vision impairment simulator designed with the direct involvement of
 While VIP-Sim provides valuable insights into the lives of VIPs, some concerns remain regarding the tool's ability to fully capture the diversity of visual impairments across all users.
 
 ## 🛠️ Features
-🧑‍🤝‍🧑 Participatory Design: Developed with VIPs to ensure accuracy and relevance.
-👁️ 21 Simulated Symptoms: Including light sensitivity, field loss, and more.
-💻 Overlays on Design Tools: Seamlessly integrates with desktop design tools to simulate real-life visual challenges.
-📦 Precompiled Versions
+- 🧑‍🤝‍🧑 Participatory Design: Developed with VIPs to ensure accuracy and relevance.
+- 👁️ 21 Simulated Symptoms: Including light sensitivity, field loss, and more.
+- 💻 Overlays on Design Tools: Seamlessly integrates with desktop design tools to simulate real-life visual challenges.
+- 📦 Precompiled Versions
 In the Builds folder, you will find precompiled versions of both the simulator and the assessment tool, ready for use. Simply download and get started! 🛠️✨
 
 ## 🚀 Full Release
