@@ -1,5 +1,5 @@
 # 🎯 VIP-Sim: Visual Impairment Simulator
-##📝 Overview
+## 📝 Overview
 VIP-Sim is a vision impairment simulator designed with the direct involvement of people with vision impairments (VIPs) to help designers better understand the visual challenges they face. Our tool allows the overlaying of 21 different visual symptoms, such as field loss and light sensitivity, on desktop design tools. It was developed through a participatory design process with N=7 VIPs and has been positively received by participants for its ability to replicate their experiences.
 
 While VIP-Sim provides valuable insights into the lives of VIPs, some concerns remain regarding the tool's ability to fully capture the diversity of visual impairments across all users.
